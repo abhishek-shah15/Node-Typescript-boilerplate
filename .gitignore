@@ -1,0 +1,15 @@
+node_modules/*
+.idea/
+build/
+dist/
+coverage/
+process.json
+serviceAccountKey.json
+ecosystem.config.js
+*.log
+*.zip
+uploads/
+tmp/
+.DS_Store
+node_modules_old/*
+.env
